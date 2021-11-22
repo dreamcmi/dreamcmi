@@ -1,6 +1,6 @@
 ## 👋 Hello, world! 
 
-My name is Darren,from China,I am an embedded development enthusiast. I started to learn about embedded development and became interested in high school, and now I continue to study in this area. Sharing knowledge is the best way to become better programmers and better engineers together!
+My name is Darren,a college student from China,I am an embedded development enthusiast. I started to learn about embedded development and became interested in high school, and now I continue to study in this area. Sharing knowledge is the best way to become better programmers and better engineers together!
 
 I am now very interested in the RISC-V architecture, and I am studying in this area.
 
