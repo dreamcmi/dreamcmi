@@ -6,5 +6,5 @@ I am now very interested in the RISC-V architecture, and I am studying in this a
 
 ## 🍳Programming Langages
 
-<img src='https://img.shields.io/badge/C-C-blue' align='left'/><img src='https://img.shields.io/badge/C%2B%2B-C%2B%2B-blue' align='left'/><img src='https://img.shields.io/badge/Python-Python-blue' align='left'/><img src='https://img.shields.io/badge/Lua-Lua-blue' align='left'/><img src='https://img.shields.io/badge/Go-Go-blue' align='left'/><img src='https://img.shields.io/badge/JavaScript-JavaScrip-blue' align='left'/><img src='https://img.shields.io/badge/CMake-CMake-blue' align='left'/><img src='https://img.shields.io/badge/Make-Make-blue' align='left'/>
+<img src='https://img.shields.io/badge/C-C-blue' align='left'/><img src='https://img.shields.io/badge/C%2B%2B-C%2B%2B-blue' align='left'/><img src='https://img.shields.io/badge/Python-Python-blue' align='left'/><img src='https://img.shields.io/badge/Lua-Lua-blue' align='left'/><img src='https://img.shields.io/badge/Go-Go-blue' align='left'/><img src='https://img.shields.io/badge/CMake-CMake-blue' align='left'/><img src='https://img.shields.io/badge/Make-Make-blue' align='left'/>
 
